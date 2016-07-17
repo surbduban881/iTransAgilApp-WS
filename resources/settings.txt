@@ -1,0 +1,2 @@
+Registro de usuario: http://localhost:8080/iTransAgilAppServices/services/OpRegisterUser?email=haroldsep1@gmail.com&password=123456
+Logueo de usuario: http://localhost:8080/iTransAgilAppServices/services/OpLoginSession?email=haroldsep1@gmail.com&password=123456
